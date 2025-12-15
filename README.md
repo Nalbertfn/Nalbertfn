@@ -1,16 +1,26 @@
-# 👋 Olá, eu sou Nalbert
+# Nalbert Ferreira do Nascimento
 
-### Desenvolvedor Java ☕  
+### Desenvolvedor Java | Backend ☕
 
-💻 Estudante de tecnologia com foco em **Java**, orientação a objetos e desenvolvimento de aplicações backend.
+Sou estudante de tecnologia com foco em **desenvolvimento backend em Java**, interessado em construção de aplicações robustas, organizadas e alinhadas a boas práticas de engenharia de software.
 
-📚 Tenho interesse em boas práticas, arquitetura de software e aprendizado contínuo.
+Tenho como objetivo consolidar minha base em **Java, orientação a objetos, estruturas de dados e desenvolvimento de APIs**, evoluindo gradualmente para arquiteturas mais completas e profissionais.
 
-🚀 Sempre aprendendo, sempre evoluindo.
+Busco oportunidades de aprendizado prático, especialmente em ambientes que valorizem **qualidade de código, versionamento, organização e evolução contínua**.
 
 ---
 
-### ☕ Tecnologias
+### 🎯 Objetivos Profissionais
+
+- Atuar como **Desenvolvedor Java Backend**
+- Aprofundar conhecimentos em **Java e Spring**
+- Desenvolver aplicações bem estruturadas e escaláveis
+- Evoluir para projetos com arquitetura limpa e boas práticas
+- Contribuir de forma consistente em projetos reais
+
+---
+
+### ☕ Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
@@ -23,6 +33,6 @@
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nalbertfn&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalbertfn&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
